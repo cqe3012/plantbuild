@@ -1,9 +1,9 @@
 
-#p1{ font-family:微软雅黑;
+#p1{ font-family:"Open Sans", sans-serif;
      font-size:55px;
      margin:40px;
-     margin-left: 440px;
-     color:#000;
+     margin-left: 40px;
+     color:#ffffff;
 }
 
 /* 修改后的 #divd 样式 */
@@ -46,18 +46,18 @@ input{border-radius:5px;/*更改;:5px*/
 
 /* 标准动画定义 */
 @keyframes name1 {
-0%   { background-image: url(../img/1.jpg); }
+0%   { background-image: url(../img/b1.jpg); }
 30%  { background-image: url(../img/2.jpg); }
 50%  { background-image: url(../img/1.jpg); }
 80%  { background-image: url(../img/3.jpg); }
-100%  { background-image: url(../img/2.jpg); }
+100%  { background-image: url(../img/b16.jpg); }
 }
 @-webkit-keyframes name1
-{0%{background-image:url(../img/1.jpg);}
+{0%{background-image:url(../img/b1.jpg);}
  30%{background-image:url(../img/2.jpg);}
  50%{background-image:url(../img/1.jpg);}
  80%{background-image:url(../img/3.jpg);}
- 100%  { background-image: url(../img/2.jpg); }
+ 100%  { background-image: url(../img/b16.jpg); }
 }
 html, body {
       margin: 0;

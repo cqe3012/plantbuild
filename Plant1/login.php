@@ -3,7 +3,6 @@
     <meta charset="UTF-8">
     <title>登录</title>
     <link type="text/css" href="css/登录.css" rel="stylesheet">
-    <!-- 确保引入了正确的CSS文件 -->
 </head>
 <body>
 <div id="divd">
